@@ -2,6 +2,10 @@
 
 A simple calculator that multiplies two numbers.
 
+## Requirements
+
+- Python 3.x
+
 ## How to Use
 
 1. Download the `calculator.py` file (click the "Raw" button and save it)
@@ -9,3 +13,4 @@ A simple calculator that multiplies two numbers.
 3. Run the script:
    ```bash
    python calculator.py
+   ```
